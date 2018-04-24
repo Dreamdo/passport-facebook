@@ -1,26 +1,24 @@
 {
   "name": "passport-sas",
-  "version": "1.0.0",
-  "description": "Facebook authentication strategy for Passport.",
+  "version": "1.0.1",
+  "description": "SAS authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "facebook",
+    "hundred",
+    "sas",
     "auth",
     "authn",
     "authentication",
     "identity"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Ivan Suvorov",
+    "email": "ivan.suvorov@hundred.org",
+    "url": "hundred.org"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-facebook.git"
-  },
-  "bugs": {
-    "url": "http://github.com/jaredhanson/passport-facebook/issues"
+    "url": "git://github.com/Dreamdo/passport-sas.git"
   },
   "license": "MIT",
   "licenses": [
