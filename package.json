@@ -1,6 +1,6 @@
 {
   "name": "passport-sas",
-  "version": "3.0.3",
+  "version": "3.0.5",
   "description": "SAS authentication strategy for Passport.",
   "keywords": [
     "passport",
